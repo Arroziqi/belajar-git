@@ -1,1 +1,2 @@
 tambah baris 1 di file2.txt
+merubah baris 2 di file2.txt
