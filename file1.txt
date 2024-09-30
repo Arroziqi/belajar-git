@@ -1,0 +1,1 @@
+tambah baris 1 di file1.txt
